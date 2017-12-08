@@ -33,4 +33,4 @@ vignettes/*.pdf
 *.knit.md
 
 # Jupyter
-.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints
